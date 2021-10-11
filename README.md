@@ -11,7 +11,7 @@
 I created a a two-player tic-tac-toe game, which can be played in the command line, using Python. 
 
 ## First Look: 
-<iframe src="https://drive.google.com/file/d/1jc7YQw9JuU5Y46bmOtcrdOlaycm_UFdT/preview" width="640" height="480"></iframe>
+![tic-tac-toe](https://user-images.githubusercontent.com/69092983/136865067-270114bd-c6e1-41c1-8995-a1701a28e868.gif)
 
 ## Technologies Used:
 * [Python3](https://www.python.org/)
