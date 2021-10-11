@@ -32,7 +32,7 @@ def game():
             theBoard[move] = turn
             count += 1
         else:
-            print("That place is already filled.\nMove to which place?")
+            print("That place is already filled. Move to which place?")
             continue
 
         # Now we will check if player X or O has won,for every move after 5 moves. 

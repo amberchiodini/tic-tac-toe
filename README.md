@@ -4,7 +4,6 @@
 * First Look 
 * Technologies Used
 * Installation 
-* Links 
 * License 
 * References 
 
@@ -12,6 +11,7 @@
 I created a a two-player tic-tac-toe game, which can be played in the command line, using Python. 
 
 ## First Look: 
+[tic-tac-toe](https://user-images.githubusercontent.com/69092983/136865067-270114bd-c6e1-41c1-8995-a1701a28e868.gif)
 
 ## Technologies Used:
 * [Python3](https://www.python.org/)
